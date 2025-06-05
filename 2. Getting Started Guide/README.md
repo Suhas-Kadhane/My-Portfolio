@@ -6,10 +6,6 @@
 #### Meta Platforms, Inc.
 
 # Table of Contents
-- [Getting Started with WhatsApp](#getting-started-with-whatsapp)
-  - [Essential Setup and Usage Instructions](#essential-setup-and-usage-instructions)
-    - [Version 1.0](#version-10)
-      - [Meta Platforms, Inc.](#meta-platforms-inc)
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)

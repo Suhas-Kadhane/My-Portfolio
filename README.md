@@ -7,12 +7,6 @@
 #### Copyright © 2025 Meta Platforms Inc. All Rights Reserved
  
 # Table of Contents
-- [WhatsApp Release Notes](#whatsapp-release-notes)
-  - [Version 1.1](#version-11)
-    - [May 25, 2025](#may-25-2025)
-      - [Meta Platforms Inc.](#meta-platforms-inc)
-      - [Copyright © 2025 Meta Platforms Inc. All Rights Reserved](#copyright--2025-meta-platforms-inc-all-rights-reserved)
-- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [What's New](#whats-new)
   - [New Features](#new-features)

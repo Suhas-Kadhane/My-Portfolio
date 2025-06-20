@@ -7,7 +7,7 @@
 #### Copyright © 2025 Meta Platforms Inc. All Rights Reserved
  
 # Table of Contents
-- [Introduction](#introduction)
+- [Overview](#overview)
 - [What's New](#whats-new)
   - [New Features](#new-features)
   - [Enhancements](#enhancements)
@@ -19,7 +19,7 @@
 - [Limitations](#limitations)
 - [Language Support](#language-support)
 
-# Introduction
+# Overview
 <p> Meta Platforms Inc. is releasing WhatsApp with new updates. The current release 1.1 includes new features, enhancements, system information, issues fixed, known issues, limitations and general information related to the usage.
 </p>
 
